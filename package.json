@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "postcss": "^8.0.6",
     "postcss-cli": "^8.0.0"
   },
   "devDependencies": {},
