@@ -66,11 +66,11 @@ googleAnalytics = ""
 
 [[menu.main]]
   url = "/about"
-  name = "About Us"
+  name = "About PHO"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
+  url = "/contact"
   name = "Contact"
   weight = 30
 
@@ -79,11 +79,6 @@ googleAnalytics = ""
   url = "/about"
   name = "About Us"
   weight = 10
-
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
 
 #[[menu.footer_social]]
 #  weight = 20

@@ -6,7 +6,7 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
+title = "PHO"
 subtitle = "The Pharmacognosy Ontology"
 
 [header]
