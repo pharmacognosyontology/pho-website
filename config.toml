@@ -65,6 +65,11 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
+  url = "https://pho-doc.nprod.net"
+  name = "Documentation"
+  weight = 15
+
+[[menu.main]]
   url = "/about"
   name = "About PHO"
   weight = 20
